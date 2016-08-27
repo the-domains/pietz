@@ -1,0 +1,28 @@
+name: Paul-Louis Pröve
+favicon: null
+layout_spectrum: 0.753
+typography_spectrum: 0.1202589354943484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.26346728834323585
+  lightness: 0.18537189927883446
+  saturation: 0.18124526413157582
+  rhythmicContrast: 0.8784612535964698
+purpose: []
