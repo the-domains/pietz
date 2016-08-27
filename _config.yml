@@ -1,4 +1,21 @@
-typography_spectrum: 0.75303
+name: Paul-Louis Pröve
+favicon: null
+layout_spectrum: 0.10573
+typography_spectrum: 0.9418
+title: Paul-Louis Pröve
+description: computer engineer
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -10,21 +27,4 @@ color:
   lightness: 0.18537189927883446
   saturation: 0.18124526413157582
   rhythmicContrast: 0.8784612535964698
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.753
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Paul-Louis Pröve
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Paul-Louis Pröve
-description: computer engineer
 purpose: []
