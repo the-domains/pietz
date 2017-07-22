@@ -14,9 +14,7 @@ keywords: []
 description: >-
   Let me give you a quick overview of different types of convolutions and what
   their benefits are. For the sake of simplicity I'm focussing on 2D
-  convolutions only. First we need to agree on a few parameters that define a
-  convolutional layer. Kernel Size: The kernel size defines the field of view of
-  the convolution.
+  convolutions only.
 app_links:
   - type: android
     namespace: ai
@@ -44,16 +42,16 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://medium.com/@pietz/types-of-convolutions-in-deep-learning-717013397f4d'
-title: Types of Convolutions in Deep Learning - Paul-Louis Pröve - Medium
-datePublished: '2017-07-22T21:09:20.433Z'
-dateModified: '2017-07-22T21:08:30.505Z'
-datePublishedOriginal: '2017-07-22T21:09:20.433Z'
+title: An Introduction to different Types of Convolutions
+datePublished: '2017-07-22T22:22:35.294Z'
+dateModified: '2017-07-22T22:22:34.468Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-07-22-types-of-convolutions-in-deep-learning-paul-louis-prove-.md
+starred: false
+datePublishedOriginal: '2017-07-22T21:09:20.433Z'
 _type: Article
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>Types of Convolutions in Deep Learning - Paul-Louis Pröve - Medium</h1><p>Let me give you a quick overview of different types of convolutions and what their benefits are. For the sake of simplicity I'm focussing on 2D convolutions only. First we need to agree on a few parameters that define a convolutional layer. Kernel Size: The kernel size defines the field of view of the convolution.</p><img src="https://cdn-images-1.medium.com/max/1200/1*1okwhewf5KCtIPaFib4XaA.gif" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/038d1ae60d2ad79c7029fffd9f62123e/noop.gif?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*1okwhewf5KCtIPaFib4XaA.gif" /><h1>An Introduction to different Types of Convolutions</h1><p>Let me give you a quick overview of different types of convolutions and what their benefits are. For the sake of simplicity I'm focussing on 2D convolutions only.</p></article>
