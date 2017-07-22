@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Paul-Louis Pröve]]></title>
+        <description><![CDATA[Paul-Louis Pröve]]></description>
+        <link>https://thegrid.ai/pietz/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 22 Jul 2017 21:09:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pietz/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 22 Jul 2017 21:09:20 GMT</pubDate>
+        <item>
+            <title><![CDATA[Spoken Language Recognition]]></title>
+            <description><![CDATA[<h1>Spoken Language Recognition</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d404f00f-cca8-429a-98ea-e7a949ed2001.jpg">,<p>I trained a convolutional neural network to classify audio files of voice recordings into the languages that were spoken. The dataset I used contained 66.000 files across 176 languages. I found it on <a href="https://goo.gl/G5XBJl" title="TopCoder Competition">TopCoder</a>. I liked the idea behind this problem, because it's very hard for humans to do. It's interesting to see that CNNs perform well on problems where intuition doesn't get you anywhere.</p>]]></description>
+            <link>https://thegrid.ai/pietz/spoken-language-recognition/index.html</link>
+            <guid isPermaLink="false">18024fcb-a3fc-4d2b-aaf8-03f1c6262c3a</guid>
+            <pubDate>Tue, 23 May 2017 21:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Password Attacks Paper]]></title>
+            <description><![CDATA[<h1>Password Attacks Paper</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e38cd300-70ea-449b-b976-2ced9c71bdcd.jpg">,<p>Password attacks are at the edge of accessing someones secrets. By learning to judge the strength of a password and by understanding how hackers execute attacks, users can make better estimations on how safe they are.</p>]]></description>
+            <link>https://thegrid.ai/pietz/password-attacks-paper/index.html</link>
+            <guid isPermaLink="false">be4c6567-db2e-41f6-bf1c-c7e24d9c429a</guid>
+            <pubDate>Wed, 24 May 2017 07:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum based Insurance]]></title>
+            <description><![CDATA[<h1>Ethereum based Insurance</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5df8c2a1-5a71-431c-bb93-bdfdd20d7367.jpg">,<p>Secureum is a working prototype of an anonymous insurance service. The idea was to create a simple and secure way to protect yourself against flight delays or extreme weather conditions. We used Ethereum based smart contracts to automate the validation of payouts and prevent the leakage of personal information. All you need is an Ethereum Wallet ID and 20 seconds of your time to go through a full insurance process. A working version of the service is currently not online.</p>]]></description>
+            <link>https://thegrid.ai/pietz/ethereum-based-insurance/index.html</link>
+            <guid isPermaLink="false">86a6de17-875f-4cb9-9edf-49fecba1d407</guid>
+            <pubDate>Wed, 24 May 2017 13:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Types of Convolutions in Deep Learning - Paul-Louis Pröve - Medium]]></title>
+            <description><![CDATA[<article><h1>Types of Convolutions in Deep Learning - Paul-Louis Pr&ouml;ve - Medium</h1><p>Let me give you a quick overview of different types of convolutions and what their benefits are. For the sake of simplicity I&apos;m focussing on 2D convolutions only. First we need to agree on a few parameters that define a convolutional layer. Kernel Size: The kernel size defines the field of view of the convolution.</p><img src="https://cdn-images-1.medium.com/max/1200/1*1okwhewf5KCtIPaFib4XaA.gif"></article>]]></description>
+            <link>https://medium.com/@pietz/types-of-convolutions-in-deep-learning-717013397f4d</link>
+            <guid isPermaLink="false">3957a246-1600-4e91-bbc0-284ecf6b7d68</guid>
+            <pubDate>Sat, 22 Jul 2017 21:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KalahaGo]]></title>
+            <description><![CDATA[<h1>KalahaGo</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0272ffe3-b1db-4a42-9671-10bb10eabcdf.jpg">,<p>KalahaGo is a game I wrote as an university project. It's based on the popular board game Kalaha, which is also often referred to as Mancala. It includes an AI opponent that is a lot better than me and features a colorful UI with several settings that can be tweaked.</p>]]></description>
+            <link>https://thegrid.ai/pietz/kalahago/index.html</link>
+            <guid isPermaLink="false">772d2acc-047e-48f1-a1d3-d165e3677ef4</guid>
+            <pubDate>Fri, 26 Aug 2016 16:22:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
