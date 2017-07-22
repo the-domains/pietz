@@ -37,31 +37,6 @@ navigation:
     type: external
 favicon: null
 title: Paul-Louis Pröve
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac03b54f-49b0-4ab8-8b02-35c311395944.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac03b54f-49b0-4ab8-8b02-35c311395944.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: computer scientist specialising in artificial intelligence
 purpose: []
