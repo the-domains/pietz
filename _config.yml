@@ -1,28 +1,67 @@
-name: Paul-Louis Pröve
-favicon: null
-layout_spectrum: 0.2708874689415097
-typography_spectrum: 0.1202589354943484
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.296867814283486
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.3038881612789476
+  lightness: 0.4766390221541987
+  saturation: 0.8487074135236515
+  rhythmicContrast: 0.5201317984401479
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.26346728834323585
-  lightness: 0.18537189927883446
-  saturation: 0.18124526413157582
-  rhythmicContrast: 0.8784612535964698
+layout_spectrum: 0.18117761160864834
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Paul-Louis Pröve
+  email: mail@plpp.de
+name: Paul-Louis Pröve
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: GitHub
+    url: 'https://github.com/pietz'
+    type: external
+  - name: LinkedIn
+    url: 'https://www.linkedin.com/in/pietzprove/'
+    type: external
+favicon: null
+title: Paul-Louis Pröve
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac03b54f-49b0-4ab8-8b02-35c311395944.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac03b54f-49b0-4ab8-8b02-35c311395944.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: computer scientist specialising in artificial intelligence
 purpose: []
