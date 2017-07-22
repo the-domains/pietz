@@ -55,7 +55,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -65,3 +64,4 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: computer scientist specialising in artificial intelligence
 purpose: []
+url: 'http://plpp.de'
