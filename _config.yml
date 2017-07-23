@@ -24,6 +24,7 @@ author:
   name: Paul-Louis Pröve
   email: mail@plpp.de
 name: Paul-Louis Pröve
+url: 'http://plpp.de'
 cta:
   domain: null
   bucket: null
@@ -34,6 +35,9 @@ navigation:
     type: external
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/pietzprove/'
+    type: external
+  - name: Medium
+    url: 'https://medium.com/@pietz'
     type: external
 favicon: null
 title: Paul-Louis Pröve
@@ -46,22 +50,21 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/e38cd300-70ea-449b-b976-2ced9c71bdcd.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: computer scientist specialising in artificial intelligence
 purpose: []
-url: 'http://plpp.de'
