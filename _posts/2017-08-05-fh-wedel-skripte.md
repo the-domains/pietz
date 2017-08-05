@@ -1,13 +1,13 @@
 ---
 inFeed: true
 description: >-
-  Die folgenden Links führen zu meinen Lernunterlagen vom Medieninformatik
-  Studium an der FH Wedel. Hinter jedem Link ist gekennzeichnet, was meine
-  persönliche Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem
-  ist klar, dass selbst bei 3 Sternen Fehler enthalten sein werden. Jeder darf
-  die Dokumente kommentieren und ich würde mich über Fehlerkorrekturen freuen.
-dateModified: '2017-08-05T16:25:47.381Z'
-datePublished: '2017-08-05T16:25:48.051Z'
+  Die folgenden Links führen zu meinen persönlichen Lernunterlagen meines
+  verschiedener Vorlesungen an der FH Wedel. Hinter jedem Link ist
+  gekennzeichnet, was meine Einschätzung der Qualität und Vollständigkeit ist.
+  Ich hoffe jedem ist klar, dass auch bei 3 Sternen Fehler enthalten sein
+  werden. Jeder darf die Dokumente kommentieren und Korrekturen einreichen.
+dateModified: '2017-08-05T16:41:22.359Z'
+datePublished: '2017-08-05T16:41:23.156Z'
 title: FH Wedel Skripte
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ _type: Article
 ---
 # FH Wedel Skripte
 
-Die folgenden Links führen zu meinen Lernunterlagen vom **Medieninformatik** Studium an der **FH Wedel**. Hinter jedem Link ist gekennzeichnet, was meine persönliche Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem ist klar, dass selbst bei 3 Sternen Fehler enthalten sein werden. Jeder darf die Dokumente kommentieren und ich würde mich über Fehlerkorrekturen freuen.
+Die folgenden Links führen zu meinen persönlichen Lernunterlagen meines verschiedener Vorlesungen an der **FH Wedel**. Hinter jedem Link ist gekennzeichnet, was meine Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem ist klar, dass auch bei 3 Sternen Fehler enthalten sein werden. Jeder darf die Dokumente kommentieren und Korrekturen einreichen.
 
 ---
 
