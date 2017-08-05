@@ -1,23 +1,23 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   Die folgenden Links führen zu meinen Lernunterlagen vom Medieninformatik
   Studium an der FH Wedel. Hinter jedem Link ist gekennzeichnet, was meine
   persönliche Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem
   ist klar, dass selbst bei 3 Sternen Fehler enthalten sein werden. Jeder darf
   die Dokumente kommentieren und ich würde mich über Fehlerkorrekturen freuen.
-dateModified: '2017-08-05T11:17:31.221Z'
-datePublished: '2017-08-05T11:17:52.474Z'
+dateModified: '2017-08-05T11:19:07.637Z'
+datePublished: '2017-08-05T11:19:08.255Z'
 title: FH Wedel Skripte
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2017-08-05T11:17:52.474Z'
+datePublishedOriginal: '2017-08-05T11:19:07.081Z'
 sourcePath: _posts/2017-08-05-fh-wedel-skripte.md
 url: fh-wedel-skripte/index.html
-_type: Blurb
+_type: Article
 
 ---
 # FH Wedel Skripte
