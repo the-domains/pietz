@@ -6,16 +6,16 @@ description: >-
   persönliche Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem
   ist klar, dass selbst bei 3 Sternen Fehler enthalten sein werden. Jeder darf
   die Dokumente kommentieren und ich würde mich über Fehlerkorrekturen freuen.
-dateModified: '2017-08-05T11:19:07.637Z'
-datePublished: '2017-08-05T11:19:08.255Z'
+dateModified: '2017-08-05T11:19:12.675Z'
+datePublished: '2017-08-05T11:19:12.881Z'
 title: FH Wedel Skripte
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-05-fh-wedel-skripte.md
 starred: false
 datePublishedOriginal: '2017-08-05T11:19:07.081Z'
-sourcePath: _posts/2017-08-05-fh-wedel-skripte.md
 url: fh-wedel-skripte/index.html
 _type: Article
 
