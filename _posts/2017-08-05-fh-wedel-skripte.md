@@ -6,8 +6,8 @@ description: >-
   persönliche Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem
   ist klar, dass selbst bei 3 Sternen Fehler enthalten sein werden. Jeder darf
   die Dokumente kommentieren und ich würde mich über Fehlerkorrekturen freuen.
-dateModified: '2017-08-05T15:40:02.894Z'
-datePublished: '2017-08-05T15:40:03.564Z'
+dateModified: '2017-08-05T15:41:24.974Z'
+datePublished: '2017-08-05T15:41:25.476Z'
 title: FH Wedel Skripte
 author: []
 publisher: {}
@@ -37,7 +37,7 @@ Die folgenden Links führen zu meinen Lernunterlagen vom **Medieninformatik** St
 * [Bildbearbeitung\*\*][1]
 * [Datenbanken\*\*][2]
 * [Diskrete Mathematik\*\*][3]
-* [Fortgeschrittene objektorientierte Programmierung\*\*\*][4]
+* [FOOP\*\*\*][4]
 * [Informationstechnik\*\*\*][5]
 * [IT Sicherheit\*\*\*][6]
 * [Projektmanagement\*\*][7]
