@@ -4,9 +4,9 @@
         <description><![CDATA[Paul-Louis Pröve]]></description>
         <link>http://plpp.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Aug 2017 16:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2017 10:06:12 GMT</lastBuildDate>
         <atom:link href="http://plpp.de/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Aug 2017 16:41:23 GMT</pubDate>
+        <pubDate>Wed, 09 Aug 2017 10:06:01 GMT</pubDate>
         <item>
             <title><![CDATA[An Introduction to different Types of Convolutions]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/038d1ae60d2ad79c7029fffd9f62123e/noop.gif?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*1okwhewf5KCtIPaFib4XaA.gif"><h1>An Introduction to different Types of Convolutions</h1><p>Let me give you a quick overview of different types of convolutions and what their benefits are. For the sake of simplicity I&apos;m focussing on 2D convolutions only.</p></article>]]></description>
@@ -44,7 +44,7 @@
         </item>
         <item>
             <title><![CDATA[FH Wedel Skripte]]></title>
-            <description><![CDATA[<h1>FH Wedel Skripte</h1>,<p>Die folgenden Links führen zu meinen persönlichen Lernunterlagen meines verschiedener Vorlesungen an der <strong>FH Wedel</strong>. Hinter jedem Link ist gekennzeichnet, was meine Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem ist klar, dass auch bei 3 Sternen Fehler enthalten sein werden. Jeder darf die Dokumente kommentieren und Korrekturen einreichen.</p>]]></description>
+            <description><![CDATA[<h1>FH Wedel Skripte</h1>,<p>Die folgenden Links führen zu meinen persönlichen Lernunterlagen verschiedener Vorlesungen an der <strong>FH Wedel</strong>. Hinter jedem Link ist gekennzeichnet, was meine Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem ist klar, dass auch bei 3 Sternen Fehler enthalten sein werden. Jeder darf die Dokumente kommentieren und Korrekturen einreichen.</p>]]></description>
             <link>http://plpp.de/fh-wedel-skripte/index.html</link>
             <guid isPermaLink="false">8ad288a4-5951-4df3-9810-1f34bc9bd5dd</guid>
             <pubDate>Sat, 05 Aug 2017 11:19:07 GMT</pubDate>
