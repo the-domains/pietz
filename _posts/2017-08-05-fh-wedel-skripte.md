@@ -6,8 +6,8 @@ description: >-
   Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem ist klar,
   dass auch bei 3 Sternen Fehler enthalten sein werden. Jeder darf die Dokumente
   kommentieren und Korrekturen einreichen.
-dateModified: '2017-08-09T10:05:59.859Z'
-datePublished: '2017-08-09T10:06:00.383Z'
+dateModified: '2017-08-09T10:07:14.969Z'
+datePublished: '2017-08-09T10:07:15.437Z'
 title: FH Wedel Skripte
 author: []
 publisher: {}
@@ -21,6 +21,7 @@ _type: Article
 
 ---
 # FH Wedel Skripte
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e59f748-ccf0-4802-a8ae-01cae04c466f.png)
 
 Die folgenden Links führen zu meinen persönlichen Lernunterlagen verschiedener Vorlesungen an der **FH Wedel**. Hinter jedem Link ist gekennzeichnet, was meine Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem ist klar, dass auch bei 3 Sternen Fehler enthalten sein werden. Jeder darf die Dokumente kommentieren und Korrekturen einreichen.
 
