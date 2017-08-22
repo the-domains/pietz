@@ -43,8 +43,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/@pietz/types-of-convolutions-in-deep-learning-717013397f4d'
 title: An Introduction to different Types of Convolutions
-datePublished: '2017-08-22T13:10:54.746Z'
-dateModified: '2017-08-22T13:10:54.525Z'
+datePublished: '2017-08-22T13:21:03.675Z'
+dateModified: '2017-08-22T13:21:03.315Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-22-types-of-convolutions-in-deep-learning-paul-louis-prove-.md
