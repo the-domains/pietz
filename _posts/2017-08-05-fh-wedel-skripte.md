@@ -6,8 +6,8 @@ description: >-
   Einschätzung der Qualität und Vollständigkeit ist. Ich hoffe jedem ist klar,
   dass auch bei 3 Sternen Fehler enthalten sein werden. Jeder darf die Dokumente
   kommentieren und Korrekturen einreichen.
-dateModified: '2017-08-09T10:07:14.969Z'
-datePublished: '2017-08-09T10:07:15.437Z'
+dateModified: '2017-08-22T13:21:03.315Z'
+datePublished: '2017-08-22T13:21:03.686Z'
 title: FH Wedel Skripte
 author: []
 publisher: {}
