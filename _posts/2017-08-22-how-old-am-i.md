@@ -16,8 +16,8 @@ description: >-
   proof of concept estimating the age of individuals using the generated bone
   segmentations. The preliminary results show the potential of this approach
   achieving a mean difference of 0.48 ± 0.32 years.
-dateModified: '2017-08-22T13:10:54.525Z'
-datePublished: '2017-08-22T13:13:15.595Z'
+dateModified: '2017-08-22T13:21:03.315Z'
+datePublished: '2017-08-22T13:21:03.686Z'
 title: How Old Am I?
 author: []
 publisher: {}
