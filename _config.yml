@@ -36,11 +36,11 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/pietzprove/'
     type: external
-  - name: Medium
-    url: 'https://medium.com/@pietz'
-    type: external
   - name: Xing
     url: 'https://www.xing.com/profile/PaulLouis_Proeve'
+    type: external
+  - name: Medium
+    url: 'https://medium.com/@pietz'
     type: external
 favicon: null
 title: Paul-Louis Pröve
