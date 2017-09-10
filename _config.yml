@@ -67,7 +67,6 @@ content:
       keywords:
         - ''
       description: Snippet of a VR Game I'm wokring on
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=hxzalPzcSgA&feature=applinks'
@@ -113,5 +112,5 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: computer scientist specialising in artificial intelligence
+description: Computer Scientist specialising in AI
 purpose: []
