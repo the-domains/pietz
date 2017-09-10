@@ -4,9 +4,9 @@
         <description><![CDATA[Paul-Louis Pröve]]></description>
         <link>http://plpp.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Sep 2017 19:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2017 19:53:22 GMT</lastBuildDate>
         <atom:link href="http://plpp.de/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 Sep 2017 19:46:53 GMT</pubDate>
+        <pubDate>Sun, 10 Sep 2017 19:53:19 GMT</pubDate>
         <item>
             <title><![CDATA[An Introduction to different Types of Convolutions]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/038d1ae60d2ad79c7029fffd9f62123e/noop.gif?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*1okwhewf5KCtIPaFib4XaA.gif"><h1>An Introduction to different Types of Convolutions</h1><p>Let me give you a quick overview of different types of convolutions and what their benefits are. For the sake of simplicity I&apos;m focussing on 2D convolutions only.</p></article>]]></description>
@@ -51,8 +51,8 @@
         </item>
         <item>
             <title><![CDATA[How old am I? - Towards Data Science - Medium]]></title>
-            <description><![CDATA[<article><h1>How old am I? - Towards Data Science - Medium</h1><p>Can you guess how old the person is behind this knee MRI? I give you a hint. It&apos;s a recording of a German male between the age of 14 and 21 years. No idea? I like to imagine that this is how a neural...</p></article>]]></description>
-            <link>https://medium.com/towards-data-science/how-old-am-i-f62538487d36</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82062838-f452-4e9b-85e5-d8718f2a454a.gif">,<article><h1>How old am I? - Towards Data Science - Medium</h1><p>Can you guess how old the person is behind this knee MRI? I give you a hint. It&apos;s a recording of a German male between the age of 14 and 21 years. No idea? I like to imagine that this is how a neural...</p></article>]]></description>
+            <link>http://plpp.de/how-old-am-i-towards-data-science-medium/index.html</link>
             <guid isPermaLink="false">44116bd9-9c2e-48bc-9814-320dd46f2fdb</guid>
             <pubDate>Sun, 10 Sep 2017 19:27:35 GMT</pubDate>
         </item>
