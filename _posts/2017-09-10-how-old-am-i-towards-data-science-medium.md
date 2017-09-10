@@ -42,8 +42,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/towards-data-science/how-old-am-i-f62538487d36'
 title: How old am I? - Towards Data Science - Medium
-datePublished: '2017-09-10T19:45:59.072Z'
-dateModified: '2017-09-10T19:45:58.322Z'
+datePublished: '2017-09-10T19:46:53.090Z'
+dateModified: '2017-09-10T19:46:52.381Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-10-how-old-am-i-towards-data-science-medium.md
@@ -53,4 +53,4 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd55efb74c9ab75c98d04300c4ac53cf059e0695.png" /><h1>How old am I? - Towards Data Science - Medium</h1><p>Can you guess how old the person is behind this knee MRI? I give you a hint. It's a recording of a German male between the age of 14 and 21 years. No idea? I like to imagine that this is how a neural...</p></article>
+<article style=""><h1>How old am I? - Towards Data Science - Medium</h1><p>Can you guess how old the person is behind this knee MRI? I give you a hint. It's a recording of a German male between the age of 14 and 21 years. No idea? I like to imagine that this is how a neural...</p></article>
