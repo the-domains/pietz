@@ -4,8 +4,8 @@ description: >-
   Password attacks are at the edge of accessing someones secrets. By learning to
   judge the strength of a password and by understanding how hackers execute
   attacks, users can make better estimations on how safe they are.
-dateModified: '2017-08-22T13:21:03.315Z'
-datePublished: '2017-08-22T13:21:03.684Z'
+dateModified: '2017-10-21T08:10:24.017Z'
+datePublished: '2017-10-21T08:10:24.366Z'
 title: Password Attacks Paper
 author: []
 publisher: {}
