@@ -4,9 +4,9 @@
         <description><![CDATA[Paul-Louis Pröve]]></description>
         <link>http://plpp.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Oct 2017 08:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2017 08:19:05 GMT</lastBuildDate>
         <atom:link href="http://plpp.de/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Oct 2017 08:15:51 GMT</pubDate>
+        <pubDate>Sat, 21 Oct 2017 08:19:04 GMT</pubDate>
         <item>
             <title><![CDATA[Squeeze-and-Excitation Networks - Towards Data Science - Medium]]></title>
             <description><![CDATA[<article><h1>Squeeze-and-Excitation Networks - Towards Data Science - Medium</h1><p>Setting a new state of the art on ImageNet Squeeze-and-Excitation Networks ( SENets) introduce a building block for CNNs that improves channel interdependencies at almost no computational cost. They were used at this years ImageNet competition and helped to improve the result from last year by 25%.</p><img src="https://cdn-images-1.medium.com/max/1200/1*bmObF5Tibc58iE9iOu327w.png"></article>]]></description>
