@@ -7,8 +7,8 @@ description: >-
   behind this problem, because it's very hard for humans to do. It's interesting
   to see that CNNs perform well on problems where intuition doesn't get you
   anywhere.
-dateModified: '2017-08-22T13:21:03.315Z'
-datePublished: '2017-08-22T13:21:03.683Z'
+dateModified: '2017-10-21T08:10:24.017Z'
+datePublished: '2017-10-21T08:10:24.358Z'
 title: Spoken Language Recognition
 author: []
 publisher: {}
