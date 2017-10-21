@@ -8,8 +8,8 @@ description: >-
   information. All you need is an Ethereum Wallet ID and 20 seconds of your time
   to go through a full insurance process. A working version of the service is
   currently not online.
-dateModified: '2017-10-21T08:11:35.244Z'
-datePublished: '2017-10-21T08:11:35.958Z'
+dateModified: '2017-10-21T08:15:46.133Z'
+datePublished: '2017-10-21T08:15:46.574Z'
 title: Ethereum based Insurance
 author: []
 publisher: {}
