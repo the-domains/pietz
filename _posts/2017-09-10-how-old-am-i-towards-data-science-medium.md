@@ -37,8 +37,8 @@ app_links:
     namespace: google
     type: android
 title: How old am I?
-datePublished: '2017-10-21T08:15:46.569Z'
-dateModified: '2017-10-21T08:15:46.133Z'
+datePublished: '2017-10-21T08:19:03.880Z'
+dateModified: '2017-10-21T08:19:03.226Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-10-how-old-am-i-towards-data-science-medium.md
@@ -86,12 +86,14 @@ Lucky me, a diligent person working on the same project already labeled half of 
 In the end, I got to **98.0% DSC **using a small variant of U-Net with a constant number of 32 output channels for every convolution. Things became a little problematic with the Fibula, the smallest bone, which is why I decided to train three separate models. I also tried a whole bunch of other things that you can read about in my thesis, but for now, I want to keep it at that.
 
 By the way, aren't you surprised that this worked so well? I surely was at first. Think about it. I wasn't able to train a regressor on 145 samples, but a more complex segmentation on 76 samples worked flawlessly. Well, it turns out a segmentation can be seen as a classification for every pixel. That means for each sample I had _width\*height _information to back-propagate through the network. That's a lot more than one numeric value resulting from a simple regression.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd92d376-67ac-409c-98f4-f7b97378a789.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c60a9acd-446e-40fb-9915-7e77458afc44.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b60f0bc7-f4b2-45f4-8ecb-1adfb57c6e45.png)
 
 With the masks applied to the input data, I got rid of all the non-bone tissue I didn't care about and was able to focus more clearly on the growth plates. I came back to the original problem but noticed quickly that it still wouldn't work. Only after taking the contracting side of my segmentation architecture and using it as a pre-trained model was I able to beat the baseline. This idea will not make the model converge every time, but when it does its predictions are stable.
 
 Because this network used 2D slices out of each volumetric image I now had multiple predictions for each MRI. On average I was wrong by 0.64 (±0.48) years. Apparently, that's already a very good result beating previous carpal MRI studies and an algorithm called boneXpert that uses X-rays.
 
-I analysed the different predictions for each 2D image and noticed that inner slices resulted in a higher accuracy. I ran experiments with weighted averages and discarding outer slices. Both concepts improved the results from before, but another approach yielded even higher accuracy. I set up aRandom Forest Regressorthat would take a vector of multiple age predictions and output a single estimate for each 3D MRI. This got me to a mean difference of**0.48 (±0.32) years**on the test set. In other words, this workflow let's me assess the age of caucasian male 14 to 21 year olds with an average error of half a year.
+I analysed the different predictions for each 2D image and noticed that inner slices resulted in a higher accuracy. I ran experiments with weighted averages and discarding outer slices. Both concepts improved the results from before, but another approach yielded even higher accuracy. I set up aRandom Forest Regressor that would take a vector of multiple age predictions and output a single estimate for each 3D MRI. This got me to a mean difference of **0.48 (±0.32) years **on the test set. In other words, this workflow let's me assess the age of caucasian male 14 to 21 year olds with an average error of half a year.
 
 This project became my bachelor thesis. I'm planning on open sourcing the code and paper, so anyone can use it for future work. For now, I have to wait what the committee thinks about it before I release anything. I find it incredible that somebody like me with no medical background can contribute to current research using AI algorithms. It's what amazes me about this field of computer science and I hope to continue working on fascinating projects like this one in the future.
