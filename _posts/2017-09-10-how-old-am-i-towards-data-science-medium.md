@@ -37,8 +37,8 @@ app_links:
     namespace: google
     type: android
 title: How old am I?
-datePublished: '2017-10-21T08:10:24.345Z'
-dateModified: '2017-10-21T08:10:24.017Z'
+datePublished: '2017-10-21T08:12:32.942Z'
+dateModified: '2017-10-21T08:12:32.183Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-10-how-old-am-i-towards-data-science-medium.md
@@ -57,9 +57,11 @@ _context: 'http://schema.org'
 
 Can you guess how old the person is behind this knee MRI? I give you a hint. It's a recording of a German male between the age of 14 and 21 years. No idea? I like to imagine that this is how a neural network sees the world before it has been trained. It has absolutely no clue. So, let me train you.
 
+---
+
 Determining the chronological age of a person is a complex procedure when dealing with people who lack legal documentation. This is often the case in asylum applications or criminal proceedings. Children and adults are processed differently under the law, but we simply don't have an accurate way of determining how old somebody is. The best approaches we use today are based on X-ray, which is an invasive imaging technique that exposes the patient to ionizing radiation. That's why many European countries only allow these recordings as part of a judicial order. Some other methods include personal interviews to determine psychological and physiological traits, but they are time-consuming and also subjective. That's why there is a high demand for an automated and noninvasive method for accurately determining the age of a person.
 
-As part of a study for the German Research Foundation (DFG), I was introduced to a data set of 3D MRIs showing the right knee of German males. The Femur in the upper half of the images is the thighbone, and the Tibia right below is the shinbone. Towards the back of the recording, you can see another bone popping up in the lower left corner --- the Fibula. If you look even closer, you can spot dark horizontal lines in the bones that almost look like cracks. These are called growth plates because it's where your bones realize longitudinal growth. They consist of cartilage which is why they can be seen in MRI recordings. Once you stop growing, these regions will slowly start to close up until they are not visible anymore.
+As part of a study for the German Research Foundation (DFG), I was introduced to a data set of 3D MRIs showing the right knee of German males. The Femur in the upper half of the images is the thighbone, and the Tibia right below is the shinbone. Towards the back of the recording, you can see another bone popping up in the lower left corner --- the Fibula. If you look even closer, you can spot dark horizontal lines in the bones that almost look like cracks. These are called growth plates because it's where your bones realize longitudinal growth. They consist of cartilage which is why they can be seen in MRI recordings. Once you stop growing, these regions will slowly start to close up until they are not visible anymore.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30725017-244d-4872-ba71-9482676a3a2f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5a335ef-7566-450f-b1a2-8394be17270c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32c9b154-26fe-430b-86a3-e88bf986d916.jpg)
