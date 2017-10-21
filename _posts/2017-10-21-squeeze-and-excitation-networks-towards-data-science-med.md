@@ -46,13 +46,13 @@ app_links:
 isBasedOnUrl: >-
   https://medium.com/towards-data-science/squeeze-and-excitation-networks-9ef5e71eacd7
 title: Squeeze-and-Excitation Networks - Towards Data Science - Medium
-datePublished: '2017-10-21T08:11:10.568Z'
-dateModified: '2017-10-21T08:11:04.516Z'
-datePublishedOriginal: '2017-10-21T08:11:10.568Z'
+datePublished: '2017-10-21T08:11:35.959Z'
+dateModified: '2017-10-21T08:11:35.244Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-10-21-squeeze-and-excitation-networks-towards-data-science-med.md
+starred: false
+datePublishedOriginal: '2017-10-21T08:11:10.568Z'
 _type: Article
 _context: 'http://schema.org'
 
