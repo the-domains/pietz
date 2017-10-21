@@ -37,8 +37,8 @@ app_links:
     namespace: google
     type: android
 title: How old am I?
-datePublished: '2017-10-21T08:08:11.235Z'
-dateModified: '2017-10-21T08:08:10.247Z'
+datePublished: '2017-10-21T08:10:24.345Z'
+dateModified: '2017-10-21T08:10:24.017Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-10-how-old-am-i-towards-data-science-medium.md
